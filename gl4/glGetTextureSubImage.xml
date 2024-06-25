@@ -229,13 +229,14 @@
 
     <para><informaltable>
         <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Layer number</entry>
+
+            <entry>Cube Map Face</entry>
+          </row>
+        </thead>
           <tbody>
-            <row>
-              <entry>Layer number</entry>
-
-              <entry>Cube Map Face</entry>
-            </row>
-
             <row>
               <entry>0</entry>
 
