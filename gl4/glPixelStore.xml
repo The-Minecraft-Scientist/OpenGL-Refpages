@@ -346,7 +346,7 @@
                     <para>
                         If greater than 0,
                         <constant>GL_PACK_IMAGE_HEIGHT</constant> defines the number of pixels in an image
-                        three-dimensional texture volume, where ``image'' is defined by all pixels
+                        three-dimensional texture volume, where ``image`` is defined by all pixels
                         sharing the same third dimension index.
                         If the first pixel of a row is placed at location
                         <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"><mml:mi mathvariant="italic">p</mml:mi></mml:math></inlineequation>
@@ -818,7 +818,7 @@
                     <para>
                         If greater than 0,
                         <constant>GL_UNPACK_IMAGE_HEIGHT</constant> defines the number of pixels in an image of
-                        a three-dimensional texture volume.  Where ``image'' is defined by all
+                        a three-dimensional texture volume.  Where ``image`` is defined by all
                         pixel sharing the same third dimension index.
                         If the first pixel of a row is placed at location
                         <inlineequation><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"><mml:mi mathvariant="italic">p</mml:mi></mml:math></inlineequation>
